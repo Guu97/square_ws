@@ -1,3 +1,9 @@
+# Square_ws
+
+This is a side project that i've worked on for some day, while i was learning NestJS. 
+
+This a REST Web Service that query a firestore NoSQL database.  
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
 </p>
